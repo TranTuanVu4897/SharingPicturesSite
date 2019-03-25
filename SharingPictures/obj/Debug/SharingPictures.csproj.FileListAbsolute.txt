@@ -1,0 +1,6 @@
+D:\study\C#\SharingPictures\bin\SharingPictures.dll.config
+D:\study\C#\SharingPictures\bin\SharingPictures.dll
+D:\study\C#\SharingPictures\bin\SharingPictures.pdb
+D:\study\C#\SharingPictures\obj\Debug\SharingPictures.dll
+D:\study\C#\SharingPictures\obj\Debug\SharingPictures.pdb
+D:\study\C#\SharingPictures\obj\Debug\SharingPictures.csprojResolveAssemblyReference.cache
